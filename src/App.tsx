@@ -332,7 +332,9 @@ function App() {
     <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-50 p-4 md:p-8">
       <div className="max-w-4xl mx-auto">
         <header className="bg-white rounded-t-2xl shadow-lg p-6 border-b border-blue-100">
-          <h1 className="text-3xl font-bold text-blue-900">Health Assistant</h1>
+          <h1 className="text-3xl font-bold text-blue-900">
+            Health Assistant 🩺
+          </h1>
           <p className="text-blue-600 mt-1">
             Your personal AI healthcare companion
           </p>
