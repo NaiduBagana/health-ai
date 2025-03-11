@@ -23,7 +23,7 @@ interface Appointment {
 }
 
 const API_URL = "https://ai-health-assistant-0art.onrender.com";
-const USER_ID = "sdn"; // In a real app, this would come from authentication
+const USER_ID = "dineshnaidusurya"; // In a real app, this would come from authentication
 
 function App() {
   const [activeTab, setActiveTab] = useState<"chat" | "appointments">("chat");
